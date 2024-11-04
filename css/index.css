@@ -1,0 +1,175 @@
+body{
+    background-color:hsl(30, 54%, 90%);
+    margin: 200px;
+}
+img{
+    border-radius: 20px;
+    width: 800px;
+    box-align: center;
+    margin: 50px, 20px, 50px, 20px;
+}
+
+.all{
+    background-color: white;
+    border: 20px;
+    display: block;
+    width: 800px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+p{
+    /* text-align: center; */
+    font-size: 16px;
+    font-family: 'Outfit', Arial;
+    font-weight: normal;
+    padding: 2px;
+    font-style: normal;
+    color:(29, 28, 28);
+    margin:5px;
+}
+
+table{
+    font-family: 'Young Serif', 'Outfit', Arial;
+    font-size: 14px;
+}
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+} */
+
+.container {
+    text-align: center;
+}
+
+/* table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 50%;
+} */
+
+table, th, td {
+    /* border: 1px solid black; */
+    border-bottom: 1px solid hsl(0, 6%, 93%);
+    width: 70%;
+    /* height: auto; */
+    border-collapse: collapse;
+    box-sizing: border-box;
+    /* display: inline-table; */
+    border-spacing: 0;
+    white-space: nowrap;
+    position: initial;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+h1{
+    font-size: 30px;
+    margin: 2px;
+    font-family: 'Young Serif', Arial;
+    /* color: red; */
+}
+
+h2{
+    margin: auto;
+    font-size: 25px;
+    padding-bottom: 5px;
+    font-family: 'Outfit', arial;
+}
+
+h3{
+    /* color: blue; */
+    margin: auto;
+    font-size: 25px;
+    padding-bottom: 5px;
+    color: #A0522D;
+    font-family: 'Young Serif',arial;
+}
+
+li{
+    font-size: 14px;
+    /* color: brown; */
+    padding: 8px;
+    margin: auto;
+    font-family: 'Outfit', Arial;
+    justify-content: center;
+    text-justify: auto;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+ul.tempo ::marker{
+    color:hsl(300, 100%, 22%);
+}
+ul ::marker{
+    color: #A0522D;
+}
+
+.Tempo{
+    margin: 10px;
+    background-color: hwb(303 91% 1%);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.tempo{
+    margin: 12px;
+}
+
+div{
+    margin: 20px;
+    padding: 1px;
+}
+
+.ing, .ins{
+    padding: 20px;
+    border-bottom: 1px solid hsl(0, 2%, 64%);
+}
+
+.t{
+    font-size: 20px;
+    color: 	hsl(300, 100%, 22%)
+}
+
+ol ::marker{
+    color: #A0522D;
+    font-size: 15px;
+}
+
+.Q{
+    color: #A0522D;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.N{
+    color: gray;
+    text-align: start;
+    vertical-align: middle;
+}
+
+/* table, td, .Q{
+    text-align: center;
+    align-items: center;
+    color: blue;
+    height: 50px;
+    vertical-align: middle;
+} */
+
+    nav{
+        padding: 20px;
+    }

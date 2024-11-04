@@ -1,0 +1,14 @@
+@media (max-width: 1024px) {
+    body{
+        margin: 0;
+    }
+    img{
+        width: 350px;
+        margin: 0;
+        text-align: center;
+    }
+    .all{
+        border: 2px;
+        width: 350px;
+    }
+}
